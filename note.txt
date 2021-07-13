@@ -1,0 +1,10 @@
+chi tiết công việc:
+	- Chưa hoàn thành: false
+	- Hoàn thành: true
+	
+lao động:
+	- Nghỉ việc: false
+	- làm: true
+	
+ - kiểm tra số điện thoại
+ - kiểm tra tuổi
